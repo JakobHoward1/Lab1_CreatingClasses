@@ -1,0 +1,7 @@
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\obj\Debug\Lab1_CreatingClasses.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\obj\Debug\Lab1_CreatingClasses.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\bin\Debug\Lab1_CreatingClasses.exe.config
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\bin\Debug\Lab1_CreatingClasses.exe
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\bin\Debug\Lab1_CreatingClasses.pdb
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\obj\Debug\Lab1_CreatingClasses.exe
+C:\Users\jakob\source\repos\Lab1_CreatingClasses\obj\Debug\Lab1_CreatingClasses.pdb
